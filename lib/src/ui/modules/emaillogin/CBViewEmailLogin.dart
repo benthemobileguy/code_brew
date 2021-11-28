@@ -91,7 +91,7 @@ class _CBEmailLoginView extends State<CBEmailLoginView> {
           UIButton(
             onPressed: widget.onRecoverPressed,
             type: UIButtonType.flat,
-            text: "Recover Password",
+            text: "Forgot Password",
             textColor: Colors.white,
             alignment: Alignment.centerRight,
 //            fillContainer: true,
